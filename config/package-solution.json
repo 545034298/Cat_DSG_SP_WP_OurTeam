@@ -1,0 +1,13 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "cat-dsg-sp-wp-1004-our-team-client-side-solution",
+    "id": "3a5872ff-bda6-4b29-9e2f-84445a0acbdf",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true
+  },
+  "paths": {
+    "zippedPackage": "solution/cat-dsg-sp-wp-1004-our-team.sppkg"
+  }
+}
