@@ -18,11 +18,17 @@
     "group": {
       "default": "Catapult Systems"
     },
-    "title": { "default": "Our Team" },
-    "description": { "default": "Displays team members from the Our Team list." },
+    "title": { 
+      "default": "Our Team",
+      "zh-cn": "我们的团队"},
+    "description": { 
+      "default": "Displays team members from the Our Team list.",
+      "zh-cn":"显示我们的团队成员" },
     "officeFabricIconFontName": "Teamwork",
     "properties": {
-      "description": "Displays team members from the Our Team list."
+      "description": "Displays team members from the Our Team list.",
+      "customFilter":"*",
+      "membersLimit": "100"
     }
   }]
 }
